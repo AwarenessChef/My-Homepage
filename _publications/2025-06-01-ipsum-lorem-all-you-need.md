@@ -3,7 +3,7 @@ title: "Ipsum Lorem is all you need"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
-excerpt: 'This paper presents a novel approach to make large language models more effective at understanding and generating human-like text in complex scenarios, with state-of-the-art results on several benchmarks.'
+excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
 date: 2025-06-01
 venue: 'COML 2025 - Conference on Machine Learning'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
